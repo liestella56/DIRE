@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
 @theme {
-    --font-sansnarrow: "PT Sans Narrow", "sans-serif"; 
+    --font-sansnarrow: "PT Sans Narrow", "sans-serif";
+    --breakpoint-imac: 320rem;
 }
